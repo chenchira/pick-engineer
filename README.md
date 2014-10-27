@@ -1,7 +1,7 @@
 pick-engineer
 =============
-pick an random engineer from file.
+Project is pick and random name of engineer from name file (.txt).
 
-Usage: ruby picker.rb
+Usage : Ruby picker.rb
 
-Result: display an engineer.
+Result : display the name of engineer with random.
