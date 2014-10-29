@@ -5,7 +5,7 @@ def random_name( name )
 	rn = rand_name.split(" ")
 	if rn.size > 1
 		new = rn[1]
-		return rn[0]+" "+new[0]
+		return rn[0]+" "+new[0]+"..."
 	else
 		return rand_name
 	end
